@@ -5,7 +5,7 @@
 
 This is the backend of **Gifter**, developed using **AdonisJS**.
 
-It's an **online gift recommendation service**. Users can easily find **the perfect gift** with our intelligent suggestion system, **streamlining their shopping experience**.
+It's an **online gift recommendation service**. Users can easily find **the perfect gift**.
 
 <hr>
 
